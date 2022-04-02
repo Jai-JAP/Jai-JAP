@@ -9,7 +9,7 @@
   - [Hyper](https://github.com/Jai-JAP/hyper-arm-builds)
   - [Tabby](https://github.com/Jai-JAP/tabby-arm-builds)
   - [FreeTube](https://github.com/Jai-JAP/freetube-armhf-builds) (armhf only as arm64 packages are available on official [repo](https://github.com/FreeTubeApp/FreeTube))
-- I also have a unofficial archived full mirror of re3 i.e; Reverse Engineered GTA III and Vice City (Including wiki) [here](https://github.com/Jai-JAP/re-GTA)
+- I also have a unofficial full mirror of re3 i.e; Reverse Engineered GTA III and Vice City (Including wiki) [here](https://github.com/Jai-JAP/re-GTA)
 - [Here](https://github.com/Jai-JAP/starred-repos) is the list of my starred repos
 
 ---
