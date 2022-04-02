@@ -23,10 +23,10 @@
 
 ## My GitHub Stats
 
-![Jai-JAP's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai-JAP&show_icons=true&theme=nord)
+[![Jai-JAP's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai-JAP&show_icons=true&theme=nord)]()
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-JAP&theme=nord)-->
+<!--]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-JAP&theme=nord)]()-->
 
-![Jai-JAP's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Jai-JAP&theme=nord)
+[![Jai-JAP's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Jai-JAP&theme=nord)]()
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Jai-JAP&theme=nord)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jai-JAP&theme=nord)]()
