@@ -2,7 +2,7 @@
 ![Follow Me!](https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow&maxAge=2592000)
 
 - I massively improved the [PiKISS GUI](https://github.com/Jai-JAP/pikiss-gui) (by adding automated syncinging of apps with [piKiss](https://github.com/jmcerrejon/piKiss)) which was originally created by [Krishenrikesn](https://github.com/krishenrikesn/pikiss-gui)
-- I am the creator of [TwisteRPi Imager](https://github.com/Jai-JAP/TwisteRPi-Imager)
+- I am the creator of [TwisteRPi Imager](https://github.com/Jai-JAP/TwisteRPi-Imager), RPi-Imager with Twister OS inside alongside all other OSes
 - I have ported [Tabby](https://github.com/Eugeny/Tabby) to arm Linux platforms.
 - I also maintain packages of some apps compiled for arm. 
   - [re3 GTA](https://github.com/Jai-JAP/RPi-GTA-re)
