@@ -1,15 +1,16 @@
 ### Hi there 👋, I'm Jai A P  
 ![Follow Me!](https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow&maxAge=2592000)
-
-- I massively improved the [PiKISS GUI](https://github.com/Jai-JAP/pikiss-gui) (by adding automated syncinging of apps with [piKiss](https://github.com/jmcerrejon/piKiss)) which was originally created by [Krishenrikesn](https://github.com/krishenrikesn/pikiss-gui)
-- I am the creator of [TwisteRPi Imager](https://github.com/Jai-JAP/TwisteRPi-Imager), RPi-Imager with Twister OS inside alongside all other OSes
-- I have ported [Tabby](https://github.com/Eugeny/Tabby) to arm Linux platforms.
-- I also maintain packages of some apps compiled for arm. 
+# I am ...
+- the one who massively improved the [PiKISS GUI](https://github.com/Jai-JAP/pikiss-gui) (by adding automated syncinging of apps with [piKiss](https://github.com/jmcerrejon/piKiss)) which was originally created by [Krishenrikesn](https://github.com/krishenrikesn/pikiss-gui)
+- the creator of [TwisteRPi Imager](https://github.com/Jai-JAP/TwisteRPi-Imager), RPi-Imager with Twister OS inside alongside all other OSes
+- the one who ported [Tabby](https://github.com/Eugeny/Tabby) to arm Linux platforms.
+- also the one hosting packages of some apps compiled for arm Linux. 
   - [re3 GTA](https://github.com/Jai-JAP/RPi-GTA-re)
   - [Hyper](https://github.com/Jai-JAP/hyper-arm-builds)
   - [Tabby](https://github.com/Jai-JAP/tabby-arm-builds)
   - [FreeTube](https://github.com/Jai-JAP/freetube-armhf-builds) (armhf only as arm64 packages are available on official [repo](https://github.com/FreeTubeApp/FreeTube))
 - I also have a unofficial archived full mirror of re3 i.e; Reverse Engineered GTA III and Vice City (Including wiki) [here](https://github.com/Jai-JAP/re-GTA)
+- [Here](https://github.com/Jai-JAP/starred-repos) is the list of my starred repos
 
 ---
 
