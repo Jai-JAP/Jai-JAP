@@ -23,7 +23,7 @@
 
 ## My GitHub Stats
 
-![Jai-JAP's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai-JAP&show_icons=true&theme=nord&disable_animations=false)
+![Jai-JAP's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai-JAP&show_icons=true&theme=nord)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-JAP&theme=nord&exclude_repo=re-GTA)
 
