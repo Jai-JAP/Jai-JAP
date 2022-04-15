@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jai A P  
 ![Follow Me!](https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow&maxAge=2592000)
 # I am ...
-- the one who massively improved the [PiKISS GUI](https://github.com/Jai-JAP/pikiss-gui) (by adding automated syncinging of apps with [piKiss](https://github.com/jmcerrejon/piKiss)) which was originally created by [Krishenrikesn](https://github.com/krishenrikesn/pikiss-gui)
+- the one who massively improved the [PiKISS GUI](https://github.com/Jai-JAP/pikiss-gui) (by adding automated syncinging of apps with [piKiss](https://github.com/jmcerrejon/piKiss)) which was originally created by [Krishenrikesn](https://github.com/krishenriksen/pikiss-gui)
 - the creator of [TwisteRPi Imager](https://github.com/Jai-JAP/TwisteRPi-Imager), RPi-Imager with Twister OS inside alongside all other OSes
 - the one who ported [Tabby](https://github.com/Eugeny/Tabby) to arm Linux platforms.
 - also the one hosting packages of some apps compiled for arm Linux. 
