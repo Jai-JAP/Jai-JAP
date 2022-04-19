@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jai A P</h1>
+<h1 align="center">Hi 👋, I'm Jai</h1>
 <h3 align="center">Passionate learner and developer from 🇮🇳India🇮🇳<h1>
 
 ![Follow Me!](https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow%20Me)
