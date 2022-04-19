@@ -1,6 +1,9 @@
-### Hi there 👋, I'm Jai A P  
-![Follow Me!](https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow&maxAge=2592000)
-# I am ...
+<h1 align="center">Hi 👋, I'm Jai A P</h1>
+<h3 align="center">Passionate learner and developer from 🇮🇳India🇮🇳<h1>
+
+![Follow Me!](https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow%20Me)
+
+## I am ...
 - the one who massively improved the [PiKISS GUI](https://github.com/Jai-JAP/pikiss-gui) (by adding automated syncinging of apps with [piKiss](https://github.com/jmcerrejon/piKiss)) which was originally created by [Krishenrikesn](https://github.com/krishenriksen/pikiss-gui)
 - the creator of [TwisteRPi Imager](https://github.com/Jai-JAP/TwisteRPi-Imager), RPi-Imager with Twister OS inside alongside all other OSes
 - the one who ported [Tabby](https://github.com/Eugeny/Tabby) to arm Linux platforms.
@@ -11,9 +14,11 @@
   - [FreeTube](https://github.com/Jai-JAP/freetube-armhf-builds) (armhf only as arm64 packages are available on official [repo](https://github.com/FreeTubeApp/FreeTube))
 - I also have a unofficial full mirror of re3 i.e; Reverse Engineered GTA III and Vice City (Including wiki) [here](https://github.com/Jai-JAP/re-GTA)
 - [Here](https://github.com/Jai-JAP/starred-repos) is the list of my starred repos
-
+  
+  
 ---
-
+  
+  
 - 🔭 I’m currently working on Pi-apps and [more...](https://github.com/Jai-JAP?tab=repositories)
 - 🌱 I’m currently learning Python, C and improving my BASH skills
 - 👯 I’m looking to collaborate on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)
