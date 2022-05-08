@@ -9,8 +9,8 @@
 - the one who ported [Tabby](https://github.com/Eugeny/Tabby) to arm Linux platforms.
 - also the one hosting packages of some apps compiled for arm Linux. 
   - [re3 GTA](https://github.com/Jai-JAP/RPi-GTA-re)
-  - [Hyper](https://github.com/Jai-JAP/hyper-arm-builds) - (New releases are automatically compiled for amv7l/arm64 using GitHub Workflows.)
-  - [Tabby](https://github.com/Jai-JAP/tabby-arm-builds) - (New releases are automatically compiled for amv7l/arm64 using GitHub Workflows.)
+  - [Hyper](https://github.com/Jai-JAP/hyper-arm-builds) - (New releases are automatically compiled for linux armv7l & arm64 using GitHub Workflows.)
+  - [Tabby](https://github.com/Jai-JAP/tabby-arm-builds) - (New releases are automatically compiled for linux armv7l & arm64 using GitHub Workflows.)
   - [FreeTube](https://github.com/Jai-JAP/freetube-armhf-builds) (armhf only as arm64 packages are available on official [repo](https://github.com/FreeTubeApp/FreeTube))
 - I also have a unofficial full mirror of re3 i.e; Reverse Engineered GTA III and Vice City (Including wiki) [here](https://github.com/Jai-JAP/re-GTA)
 - [Here](https://github.com/Jai-JAP/starred-repos) is the list of my starred repos
