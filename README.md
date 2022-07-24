@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning Python, C and improving my BASH skills
 - 👯 I’m looking to collaborate on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)
 - 💬 Ask me about Linux, Bash and RaspberryPi
-- 📫 How to reach me: Discord ***@Jai-JAP#7152***
+- 📫 How to reach me: Discord ***[@Jai-JAP#7152](https://discord.com/users/812585254303825930)***
 - ⚡ Motto: Use Linux to ditch Windows 😜
 
 ## My GitHub Stats
