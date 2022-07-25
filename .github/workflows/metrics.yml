@@ -43,6 +43,6 @@ jobs:
          plugin_topics_limit: 0
          plugin_topics_mode: icons
          plugin_lines: yes
-         plugin_gists: yes
+#         plugin_gists: yes
          repositories_skipped: Jai-JAP/re-GTA
          optimize: css, xml
