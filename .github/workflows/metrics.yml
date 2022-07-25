@@ -23,10 +23,10 @@ jobs:
          repositories_skipped: Jai-JAP/re-GTA
          optimize: css, xml
 
-     - name: Others
+     - name: Overview
        uses: lowlighter/metrics@latest
        with:
-         filename: others.svg
+         filename: overview.svg
          token: ${{ secrets.METRICS_TOKEN }}
          base: header
          config_octicon: yes
