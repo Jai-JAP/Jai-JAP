@@ -24,6 +24,7 @@ jobs:
        uses: lowlighter/metrics@latest
        with:
          filename: others.svg
+         token: ${{ secrets.METRICS_TOKEN }}
          plugin_activity: yes
          plugin_activity_load: 100
          plugin_activity_days: 7
