@@ -19,7 +19,8 @@ jobs:
          base: ""
          plugin_achievements: yes
        # plugin_achievements_display: compact
-       
+         repositories_skipped: Jai-JAP/re-GTA
+         
      - name: Others
        uses: lowlighter/metrics@latest
        with:
