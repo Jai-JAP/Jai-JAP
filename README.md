@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jai</h1>
 <h3 align="center">Passionate learner and developer from 🇮🇳 India 🇮🇳<h1>
-
-![Follow Me!](https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow%20Me)
+<p align="center">
+<img src="https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow%20Me" width="150">
+<p>
 
 ## I am ...
 - the one who massively improved the [PiKISS GUI](https://github.com/Jai-JAP/pikiss-gui) (by adding automated syncinging of apps with [piKiss](https://github.com/jmcerrejon/piKiss)) which was originally created by [Krishenrikesn](https://github.com/krishenriksen/pikiss-gui)
@@ -15,9 +16,7 @@
 - I also have a unofficial full mirror of re3 i.e; Reverse Engineered GTA III and Vice City (Including wiki) [here](https://github.com/Jai-JAP/re-GTA)
 - [Here](https://github.com/Jai-JAP/starred-repos) is the list of my starred repos
   
-  
 ---
-  
   
 - 🔭 I’m currently working on Pi-apps and [more...](https://github.com/Jai-JAP?tab=repositories)
 - 🌱 I’m currently learning Python, C and improving my BASH skills
@@ -33,6 +32,6 @@
 <img src="https://github.com/jai-jap/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Most used languages"><br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jai-JAP&theme=nord" alt="Streak Status"><br/><br/>
 <img src="https://github-profile-trophy.vercel.app/?username=Jai-JAP&theme=nord" alt="Trophies"><br/><br/>
-<img src="achievements.svg" alt="Achievements"><br/>
-<img src="overview.svg" alt="Overview">
+<img src="achievements.svg" alt="Achievements" width="600"><br/><br/>
+<img src="overview.svg" alt="Overview" width="600">
 <p/>
