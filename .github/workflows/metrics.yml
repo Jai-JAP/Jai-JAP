@@ -22,7 +22,6 @@ jobs:
          plugin_achievements: yes
          plugin_achievements_display: compact
          repositories_skipped: Jai-JAP/re-GTA
-         optimize: css, xml
 
      - name: Overview
        uses: lowlighter/metrics@latest
@@ -45,4 +44,3 @@ jobs:
          plugin_lines: yes
 #         plugin_gists: yes
          repositories_skipped: Jai-JAP/re-GTA
-         optimize: css, xml
