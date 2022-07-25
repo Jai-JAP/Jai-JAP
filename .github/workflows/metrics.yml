@@ -10,6 +10,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
+     
+     - name: Achievements
+       uses: lowlighter/metrics@latest
+       with:
+         filename: achievements.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_achievements: yes
+       # plugin_achievements_display: compact
+       
+     - name: Others
+       uses: lowlighter/metrics@latest
+       with:
+         filename: others.svg
+         plugin_activity: yes
+         plugin_activity_load: 100
+         plugin_activity_days: 7
+         plugin_activity_visibility: public
+         plugin_activity_filter: issue, pr, fork, star, public, member
+         repositories_skipped: Jai-JAP/re-GTA
+         
