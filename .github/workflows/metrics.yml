@@ -40,7 +40,7 @@ jobs:
          plugin_notable_repositories: yes
          plugin_topics: yes
          plugin_topics_limit: 0
-         plugin_topics_mode: icons
          plugin_lines: yes
+         plugin_traffic: yes
 #         plugin_gists: yes
          repositories_skipped: Jai-JAP/re-GTA
