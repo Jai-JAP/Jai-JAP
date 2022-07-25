@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jai</h1>
 <h3 align="center">Passionate learner and developer from 🇮🇳 India 🇮🇳<h1>
 <p align="center">
-<img src="https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow%20Me" width="150">
+<img src="https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow%20Me" width="125">
 <p>
 
 ## I am ...
