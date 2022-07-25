@@ -17,16 +17,23 @@ jobs:
          filename: achievements.svg
          token: ${{ secrets.METRICS_TOKEN }}
          base: ""
+         config_octicon: yes
          plugin_achievements: yes
        # plugin_achievements_display: compact
          repositories_skipped: Jai-JAP/re-GTA
-         
+         optimize: css, xml
+         extras_css: |
+          body {background-image: radial-gradient(#648494, #2e3440);}
+
+#                background-color: red; /* For browsers that do not support gradients */
+      
      - name: Others
        uses: lowlighter/metrics@latest
        with:
          filename: others.svg
          token: ${{ secrets.METRICS_TOKEN }}
          base: header
+         config_octicon: yes
          plugin_activity: yes
          plugin_activity_load: 100
          plugin_activity_days: 7
@@ -45,4 +52,7 @@ jobs:
          plugin_lines: yes
          plugin_gists: yes
          repositories_skipped: Jai-JAP/re-GTA
+         optimize: css, xml
+         extras_css: |
+          body {background-image: radial-gradient(#648494, #2e3440);}
          
