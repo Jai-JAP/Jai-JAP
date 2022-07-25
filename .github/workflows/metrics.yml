@@ -22,11 +22,7 @@ jobs:
        # plugin_achievements_display: compact
          repositories_skipped: Jai-JAP/re-GTA
          optimize: css, xml
-         extras_css: |
-          body {background-image: radial-gradient(#648494, #2e3440);}
 
-#                background-color: red; /* For browsers that do not support gradients */
-      
      - name: Others
        uses: lowlighter/metrics@latest
        with:
@@ -53,6 +49,3 @@ jobs:
          plugin_gists: yes
          repositories_skipped: Jai-JAP/re-GTA
          optimize: css, xml
-         extras_css: |
-          body {background-image: radial-gradient(#648494, #2e3440);}
-         
