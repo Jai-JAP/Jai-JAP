@@ -34,4 +34,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Jai-JAP&theme=nord" alt="Trophies"><br/><br/>
 <img src="achievements.svg" alt="Achievements" width="600"><br/><br/>
 <img src="overview.svg" alt="Overview" width="600">
+<img src="https://github-readme-stats.vercel.app/api?username=Jai-JAP&show_icons=true&theme=nord" alt="Ranking">
 <p/>
