@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jai</h1>
+<h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="40">, I'm Jai</h1>
 <h3 align="center">Passionate learner and developer from 🇮🇳 India 🇮🇳<h1>
 <p align="center">
 <img src="https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow%20Me" width="125">
