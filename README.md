@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)
 - 💬 Ask me about Linux, Bash and RaspberryPi
 - 📫 How to reach me: Discord ***[@Jai-JAP#7152](https://discord.com/users/812585254303825930)***
-- ⚡ Motto: Use Linux to ditch Windows 😜
+- ⚡ Motto: Use Linux to ditch Windows <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/winking-face-with-tongue_1f61c.png" width="20">
 
 ## My GitHub Stats
 
