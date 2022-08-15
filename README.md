@@ -18,12 +18,14 @@
   
 ---
   
-- 🔭 I’m currently working on Pi-apps and [more...](https://github.com/Jai-JAP?tab=repositories)
-- 🌱 I’m currently learning Python, C and improving my BASH skills
-- 👯 I’m looking to collaborate on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)
-- 💬 Ask me about Linux, Bash and RaspberryPi
-- 📫 How to reach me: Discord ***[@Jai-JAP#7152](https://discord.com/users/812585254303825930)***
-- ⚡ Motto: Use Linux to ditch Windows <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/winking-face-with-tongue_1f61c.png" width="20">
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/telescope_1f52d.png" width="22"> I’m currently working on Pi-apps and [more...](https://github.com/Jai-JAP?tab=repositories)
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/seedling_1f331.png" width="22"> I’m currently learning Python, C and improving my BASH skills
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/people-with-bunny-ears_1f46f.png" width="22"> I’m looking to collaborate on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/speech-balloon_1f4ac.png" width="22"> Ask me about Linux, Bash and RaspberryPi
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/closed-mailbox-with-raised-flag_1f4eb.png" width="22"> How to reach me: 
+  - Discord ***[@Jai-JAP#7152](https://discord.com/users/812585254303825930)***
+  - Email ***[jai.jap.318@gmail.com](mailto://jai.jap.318@gmail.com)***
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/high-voltage_26a1.png" width="22"> Motto: Use Linux to ditch Windows <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/winking-face-with-tongue_1f61c.png" width="20">
 
 ## My GitHub Stats
 
