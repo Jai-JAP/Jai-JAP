@@ -19,7 +19,7 @@
 ---
   
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/telescope_1f52d.png" width="22"> I’m currently working on Pi-apps and [more...](https://github.com/Jai-JAP?tab=repositories)
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/seedling_1f331.png" width="22"> I’m currently learning Python, C and improving my BASH skills
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/seedling_1f331.png" width="22"> I’m currently learning Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" height="22">, C <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png" height="22"> and improving my BASH <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/240px-Bash_Logo_Colored.svg.png" height="22"> skills
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/people-with-bunny-ears_1f46f.png" width="22"> I’m looking to collaborate on [Botspot/pi-apps](https://github.com/Botspot/pi-apps)
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/speech-balloon_1f4ac.png" width="22"> Ask me about Linux, Bash and RaspberryPi
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/closed-mailbox-with-raised-flag_1f4eb.png" width="22"> How to reach me: 
