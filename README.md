@@ -11,7 +11,7 @@
   - <details>
       https://github.com/Eugeny/tabby/pull/6612
       https://github.com/Eugeny/tabby/pull/5907
-    </details>
+    <\details>
 - the one who ported [FreeTube](https://github.com/FreeTubeApp/FreeTube) to Linux armhf and Windows arm64 platforms.
   - <details>
       https://github.com/FreeTubeApp/FreeTube/pull/2113
