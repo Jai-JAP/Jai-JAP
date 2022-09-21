@@ -11,11 +11,11 @@
   - <details>
       https://github.com/Eugeny/tabby/pull/6612
       https://github.com/Eugeny/tabby/pull/5907
-    <\details>
+    </details>
 - the one who ported [FreeTube](https://github.com/FreeTubeApp/FreeTube) to Linux armhf and Windows arm64 platforms.
   - <details>
       https://github.com/FreeTubeApp/FreeTube/pull/2113
-    <\details>
+    </details>
 - also the one hosting packages of some apps compiled for arm Linux. 
   - [re3 GTA](https://github.com/Jai-JAP/RPi-GTA-re)
   - [Hyper](https://github.com/Jai-JAP/hyper-arm-builds) - (New releases are automatically compiled for linux armv7l & arm64 using GitHub Workflows.)
