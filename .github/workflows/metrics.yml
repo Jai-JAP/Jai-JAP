@@ -41,4 +41,5 @@ jobs:
          plugin_lines: yes
          plugin_traffic: yes
 #         plugin_gists: yes
-         repositories_skipped: Jai-JAP/re-GTA
+         repositories_skipped: Jai-JAP/re-GTA, Jai-JAP/gh-stats
+         
