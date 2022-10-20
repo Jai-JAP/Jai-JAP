@@ -20,7 +20,7 @@ jobs:
          config_octicon: yes
          plugin_achievements: yes
          plugin_achievements_display: compact
-         repositories_skipped: Jai-JAP/re-GTA, Jai-JAP/gh-stats
+         repositories_skipped: Jai-JAP/re-GTA, Jai-JAP/gh-stats, Jai-JAP/nodeunblocker
 
      - name: Overview
        uses: lowlighter/metrics@latest
@@ -41,5 +41,6 @@ jobs:
          plugin_lines: yes
          plugin_traffic: yes
 #         plugin_gists: yes
-         repositories_skipped: Jai-JAP/re-GTA, Jai-JAP/gh-stats
+         repositories_skipped: Jai-JAP/re-GTA, Jai-JAP/gh-stats, Jai-JAP/nodeunblocker
+
          
