@@ -1,2 +1,0 @@
-#!/bin/sh
-curl -X POST -F token=glptt-16b919ea6cdd1c18e86c774d30e2af43fe4c87d9 -F ref=master https://gitlab.com/api/v4/projects/40526937/trigger/pipeline
