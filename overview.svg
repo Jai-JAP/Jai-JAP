@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,11 +71,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="349.34092982425943" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="349.34092982425943" y="0" width="42.534382153983856" height="8" fill="#a56de2"/>
-                    <rect mask="url(#languages-bar)" x="391.8753119782433" y="0" width="41.62383599841644" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="433.49914797665974" y="0" width="16.42150197084187" height="8" fill="#007800"/>
-                    <rect mask="url(#languages-bar)" x="449.9206499475016" y="0" width="10.079350052498407" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.88196927155093" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="347.88196927155093" y="0" width="43.09516750667062" height="8" fill="#a56de2"/>
+                    <rect mask="url(#languages-bar)" x="390.97713677822156" y="0" width="42.17261645245112" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="433.1497532306727" y="0" width="16.638007708271566" height="8" fill="#007800"/>
+                    <rect mask="url(#languages-bar)" x="449.78776093894425" y="0" width="10.21223906105579" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -87,8 +87,8 @@
                                 C
                             </div>
                             <small>
-                                <div>44.1 kB</div>
-                                <div>75.94%</div>
+                                <div>43.3 kB</div>
+                                <div>75.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -100,7 +100,7 @@
                             </div>
                             <small>
                                 <div>5.26 kB</div>
-                                <div>9.05%</div>
+                                <div>9.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -112,7 +112,7 @@
                             </div>
                             <small>
                                 <div>1.27 kB</div>
-                                <div>2.19%</div>
+                                <div>2.22%</div>
                             </small>
                         </div>
                     </section>
@@ -126,7 +126,7 @@
                             </div>
                             <small>
                                 <div>5.37 kB</div>
-                                <div>9.25%</div>
+                                <div>9.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -138,7 +138,7 @@
                             </div>
                             <small>
                                 <div>2.07 kB</div>
-                                <div>3.57%</div>
+                                <div>3.62%</div>
                             </small>
                         </div>
                     </section>
@@ -1260,7 +1260,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arturssmirnovs/github-profile-readme-generator</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.</div>
@@ -1313,7 +1313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rounk-ctrl/AccentApplicator</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool to apply accent color to win32 controls.</div>
@@ -1366,7 +1366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mcdenis/AccentApplicator</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Windows utility that applies the accent color in desktop applications.</div>
@@ -1419,7 +1419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rounk-ctrl/niceos</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">funny os</div>
