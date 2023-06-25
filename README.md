@@ -5,7 +5,7 @@
 <p>
 
 ## I am ...
-- the one who massively improved the [PiKISS GUI](https://github.com/Jai-JAP/pikiss-gui) (by adding automated syncinging of apps with [piKiss](https://github.com/jmcerrejon/piKiss)) which was originally created by [Krishenrikesn](https://github.com/krishenriksen/pikiss-gui)
+- the one who massively improved the [PiKISS GUI](https://github.com/Jai-JAP/pikiss-gui) (by adding automated syncing of apps with [piKiss](https://github.com/jmcerrejon/piKiss)) which was originally created by [Krishenrikesn](https://github.com/krishenriksen/pikiss-gui)
 - the creator of [TwisteRPi Imager](https://github.com/Jai-JAP/TwisteRPi-Imager), RPi-Imager with Twister OS inside alongside all other OSes. ***[DEPRECATED]***
 - the one who ported [Tabby](https://github.com/Eugeny/Tabby) to Linux armhf, arm64 and Windows arm64 platforms.
   - <details>
