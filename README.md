@@ -18,9 +18,9 @@
     </details>
 - also the one hosting packages of some apps compiled for arm Linux. 
   - [re3 GTA](https://github.com/Jai-JAP/RPi-GTA-re)
-  - [Hyper](https://github.com/Jai-JAP/hyper-arm-builds) - (New releases are automatically compiled for linux armv7l & arm64 using GitHub Workflows.)
-  - [Tabby](https://github.com/Jai-JAP/tabby-arm-builds) - (New releases are automatically compiled for linux armv7l & arm64 using GitHub Workflows.) ***[DEPRECATED]*** See [here](https://github.com/Eugeny/tabby/pull/6612)
-  - [FreeTube](https://github.com/Jai-JAP/freetube-armhf-builds) (armhf only as arm64 packages are available on official [repo](https://github.com/FreeTubeApp/FreeTube)) ***[DEPRECATED]*** See [here](https://github.com/FreeTubeApp/FreeTube/pull/2113)
+  - [Hyper](https://github.com/Jai-JAP/hyper-arm-builds) - ~(New releases are automatically compiled for linux armv7l & arm64 using GitHub Workflows.)~ ***[DEPRECATED]*** (arm64 builds fixed and armhf support added upstream in [this](https://github.com/vercel/hyper/commit/20de964f53c3a85969c89398915a69bf1cb6218c) commit.)
+  - [Tabby](https://github.com/Jai-JAP/tabby-arm-builds) - ~(New releases are automatically compiled for linux armv7l & arm64 using GitHub Workflows.)~ ***[DEPRECATED]*** (armhf/arm64 support merged upstream [here](https://github.com/Eugeny/tabby/pull/6612))
+  - [FreeTube](https://github.com/Jai-JAP/freetube-armhf-builds) (armhf only as arm64 packages are available on official [repo](https://github.com/FreeTubeApp/FreeTube)) ***[DEPRECATED]*** (armhf support merged upstream [here](https://github.com/FreeTubeApp/FreeTube/pull/2113))
 - I also have a unofficial full archived mirror of re3 i.e; Reverse Engineered GTA III and Vice City (Including wiki) [here](https://github.com/Jai-JAP/re-GTA)
 - [Here](https://github.com/Jai-JAP/starred-repos) is the list of my starred repos
   
