@@ -16,10 +16,10 @@ jobs:
        with:
          filename: achievements.svg
          token: ${{ secrets.METRICS_TOKEN }}
-         base: ""
+         base: header
          config_octicon: yes
          plugin_achievements: yes
-         plugin_achievements_display: compact
+  #       plugin_achievements_display: compact
          repositories_skipped: Jai-JAP/re-GTA, Jai-JAP/gh-stats, Jai-JAP/nodeunblocker
 
      - name: Overview
