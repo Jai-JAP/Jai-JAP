@@ -15,7 +15,7 @@ jobs:
        uses: lowlighter/metrics@latest
        with:
          filename: achievements.svg
-         token: ${{ secrets.METRICS_TOKEN }}
+         token: ${{ secrets.GITHUB_TOKEN }}
          base: header
          config_octicon: yes
          plugin_achievements: yes
@@ -26,7 +26,7 @@ jobs:
        uses: lowlighter/metrics@latest
        with:
          filename: overview.svg
-         token: ${{ secrets.METRICS_TOKEN }}
+         token: ${{ secrets.GITHUB_TOKEN }}
          base: header
          config_octicon: yes
          plugin_isocalendar: yes
