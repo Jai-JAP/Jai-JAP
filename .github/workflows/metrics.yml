@@ -12,7 +12,7 @@ jobs:
     steps:
      
      - name: Achievements
-       uses: lowlighter/metrics@latest
+       uses: stalomeow/metrics@projects-v2
        with:
          filename: achievements.svg
          token: ${{ secrets.GITHUB_TOKEN }}
