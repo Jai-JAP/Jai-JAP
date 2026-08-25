@@ -4,19 +4,19 @@
 <img src="https://img.shields.io/github/followers/Jai-JAP.svg?style=social&label=Follow%20Me" width="125">
 <p>
 
-## I am ...
-- the one who massively improved the [PiKISS GUI](https://github.com/Jai-JAP/pikiss-gui) (by adding automated syncing of apps with [piKiss](https://github.com/jmcerrejon/piKiss)) which was originally created by [Krishenrikesn](https://github.com/krishenriksen/pikiss-gui)
-- the creator of [TwisteRPi Imager](https://github.com/Jai-JAP/TwisteRPi-Imager), RPi-Imager with Twister OS inside alongside all other OSes. ***[DEPRECATED]***
-- the one who ported [Tabby](https://github.com/Eugeny/Tabby) to Linux armhf, arm64 and Windows arm64 platforms.
+## My work ...
+- massively improved [PiKISS GUI](https://github.com/Jai-JAP/pikiss-gui) (by adding automated syncing of apps with [piKiss](https://github.com/jmcerrejon/piKiss)) which was originally created by [Krishenrikesn](https://github.com/krishenriksen/pikiss-gui)
+- creator of [TwisteRPi Imager](https://github.com/Jai-JAP/TwisteRPi-Imager), RPi-Imager with Twister OS inside alongside all other OSes. ***[DEPRECATED]***
+- ported [Tabby](https://github.com/Eugeny/Tabby) to Linux armhf, arm64 and Windows arm64 platforms.
   - <details>
       https://github.com/Eugeny/tabby/pull/6612
       https://github.com/Eugeny/tabby/pull/5907
     </details>
-- the one who ported [FreeTube](https://github.com/FreeTubeApp/FreeTube) to Linux armhf and Windows arm64 platforms.
+- ported [FreeTube](https://github.com/FreeTubeApp/FreeTube) to Linux armhf and Windows arm64 platforms.
   - <details>
       https://github.com/FreeTubeApp/FreeTube/pull/2113
     </details>
-- also the one hosting packages of some apps compiled for arm Linux. 
+- hosting packages of some apps compiled for arm Linux. 
   - [re3 GTA](https://github.com/Jai-JAP/RPi-GTA-re)
   - [Hyper](https://github.com/Jai-JAP/hyper-arm-builds) - ~(New releases are automatically compiled for linux armv7l & arm64 using GitHub Workflows.)~ ***[DEPRECATED]*** (arm64 builds fixed and armhf support added upstream in [this](https://github.com/vercel/hyper/commit/20de964f53c3a85969c89398915a69bf1cb6218c) commit.)
   - [Tabby](https://github.com/Jai-JAP/tabby-arm-builds) - ~(New releases are automatically compiled for linux armv7l & arm64 using GitHub Workflows.)~ ***[DEPRECATED]*** (armhf/arm64 support merged upstream [here](https://github.com/Eugeny/tabby/pull/6612))
@@ -37,11 +37,12 @@
 ## My GitHub Stats
 
 <p align="center">
-<img src="https://github.com/jai-jap/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats">
+<img src="https://githubcard.com/Jai-JAP.svg?d=DuJj-fFTKkM6" alt="Stats"><br/><br/>
+<!-- <img src="https://github.com/jai-jap/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats"> -->
 <!--<img src="https://github.com/jai-jap/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Most used languages">-->
 <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jai-JAP&theme=nord" alt="Streak Status"><br/><br/>
-<img src="https://github-stats-extended.vercel.app/api?username=Jai-JAP&show_icons=true&theme=nord" alt="Ranking"><br/><br/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jai-JAP&theme=nord" alt="Streak Status"><br/><br/> -->
+<!-- <img src="https://github-stats-extended.vercel.app/api?username=Jai-JAP&show_icons=true&theme=nord" alt="Ranking"><br/><br/> -->
 <img src="https://github-profile-repo.vercel.app/?username=Jai-JAP&theme=nord&row=1" alt="Trophies"><br/><br/>
 <img src="achievements.svg" alt="Achievements" width="600"><br/><br/>
 <img src="overview.svg" alt="Overview" width="600"><br/><br/>
