@@ -27,8 +27,7 @@
 ---
   
 - <img src="https://em-content.zobj.net/source/microsoft-teams/337/telescope_1f52d.png" width="22"> I’m currently working on [these](https://github.com/Jai-JAP?tab=repositories&type=&sort=) projects.
-- <img src="https://em-content.zobj.net/source/microsoft-teams/337/seedling_1f331.png" width="22"> I know Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" height="22"> and BASH <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/240px-Bash_Logo_Colored.svg.png" height="22"> & I am currently learning C <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png" height="22">, C++ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="22"> and Rust <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png" height="22"> along with Web development <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="22"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" height="22"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height="22"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" height="22">
-<!-- - <img src="https://em-content.zobj.net/source/microsoft-teams/337/people-with-bunny-ears_1f46f.png" width="22"> I’m looking to collaborate on [Botspot/pi-apps](https://github.com/Botspot/pi-apps) --->
+- <img src="https://em-content.zobj.net/source/microsoft-teams/337/seedling_1f331.png" width="22"> I know Python and BASH & I am currently learning C, C++ and Rust along with Web development.
 - <img src="https://em-content.zobj.net/source/microsoft-teams/337/speech-balloon_1f4ac.png" width="22"> Ask me about Linux, Bash and RaspberryPi
 - <img src="https://em-content.zobj.net/source/microsoft-teams/337/open-mailbox-with-raised-flag_1f4ec.png" width="22"> How to reach me: 
   - Discord ***[@jai_jap](https://discord.com/users/812585254303825930)***
@@ -42,8 +41,8 @@
 <!--<img src="https://github.com/jai-jap/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Most used languages">-->
 <br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jai-JAP&theme=nord" alt="Streak Status"><br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Jai-JAP&theme=nord" alt="Trophies"><br/><br/>
+<img src="https://github-stats-extended.vercel.app/api?username=Jai-JAP&show_icons=true&theme=nord" alt="Ranking">
+<img src="https://github-profile-repo.vercel.app/?username=Jai-JAP&theme=nord&row=1" alt="Trophies"><br/><br/>
 <img src="achievements.svg" alt="Achievements" width="600"><br/><br/>
 <img src="overview.svg" alt="Overview" width="600"><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Jai-JAP&show_icons=true&theme=nord" alt="Ranking">
 <p/>
