@@ -41,7 +41,7 @@
 <!--<img src="https://github.com/jai-jap/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Most used languages">-->
 <br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jai-JAP&theme=nord" alt="Streak Status"><br/><br/>
-<img src="https://github-stats-extended.vercel.app/api?username=Jai-JAP&show_icons=true&theme=nord" alt="Ranking">
+<img src="https://github-stats-extended.vercel.app/api?username=Jai-JAP&show_icons=true&theme=nord" alt="Ranking"><br/><br/>
 <img src="https://github-profile-repo.vercel.app/?username=Jai-JAP&theme=nord&row=1" alt="Trophies"><br/><br/>
 <img src="achievements.svg" alt="Achievements" width="600"><br/><br/>
 <img src="overview.svg" alt="Overview" width="600"><br/><br/>
